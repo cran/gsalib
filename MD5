@@ -1,0 +1,11 @@
+856a2e93e8bdff4d762ac9173acbd3f9 *DESCRIPTION
+c4d9bc1299f33f7ff3f0e9d55527c4fa *NAMESPACE
+595c309d30b0a89fa699007aec4aaf39 *R/gsa.read.gatkreport.R
+434dc0cfbd51173a9171b7b2408183e9 *doc/Readme.txt
+b7d0a576affcf7395912bbcb7258955d *inst/extdata/test_gatkreport.table
+bd9d7ab2da5969ec7a581623a523829c *man/gsa.read.gatkreport.Rd
+98f042b62afe48bc711f33b65636b1d1 *man/gsa.read.gatkreportv0.Rd
+f99c95d0811e051f1128c7b931bfe850 *man/gsa.read.gatkreportv1.Rd
+ee32f70452d3eca8663150ac93d60a0b *man/gsalib-internal.Rd
+4249e18cbebd64c005509f2b86d3f87f *man/gsalib-package.Rd
+2eb95ee92fd0fecbb4d5e8ea0afcb899 *man/test_gatkreport.table.Rd
