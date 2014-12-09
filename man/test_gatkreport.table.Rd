@@ -5,7 +5,7 @@
 \description{
    This is a new-style GATKReport.
 }
-\usage{gatkreport_test_v0.table}
+\usage{gatkreport_test_v1.table}
 \format{Text document containing multiple tables}
 \source{GSA test data, Broad Institute}
 \references{

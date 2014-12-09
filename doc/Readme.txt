@@ -1,1 +1,0 @@
-This package contains functions used by the Genome Analysis Toolkit (GATK) to load tables and plot data.
